@@ -1,0 +1,15 @@
+.info {
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+
+}
+
+header {
+    background-color:#0FF0D0;
+}
+
+h2 {
+    background-color: #0FF0D0;
+    color: #F00F2F
+}
